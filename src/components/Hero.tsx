@@ -12,7 +12,8 @@ const Hero = () => {
 
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             Осуществляем междугородние пассажирские перевозки по всей территории
-            РФ.
+            РФ.А также доставка продуктов,посылок приграничные районы Курской
+            области.Работаем по всему Черноземью
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
