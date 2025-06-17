@@ -7,13 +7,12 @@ const Hero = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">
-            Надежные перевозки
-            <span className="text-blue-600 block">по Курской области</span>
+            Междугородние пассажирские перевозки по всей территории РФ
           </h1>
 
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Осуществляем междугородние перевозки пассажиров и доставку продуктов
-            в приграничные территории. Безопасно, быстро, профессионально.
+            Осуществляем междугородние пассажирские перевозки по всей территории
+            РФ.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
